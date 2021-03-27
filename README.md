@@ -1,4 +1,1 @@
-# richpresence
-YOU CAN USE THIS RICHPRESENCE EVERYWHERE AND EVERYTIME !
-
-THANKS FOR EVERYONE FOR HELPING ME TO LEARN OTHER CODES
+Richpresence shows with streetnames, your id and locations !
